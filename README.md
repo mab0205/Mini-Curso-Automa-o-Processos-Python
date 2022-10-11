@@ -5,3 +5,4 @@ Curso em Python
 3. Enviar e-mails utilizando python
 4. Automação de processos manuais
 5. Matplotlib
+6. Uso e manipulação de dados em excel, como banco de dados
